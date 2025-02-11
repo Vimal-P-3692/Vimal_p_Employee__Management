@@ -1,1 +1,8 @@
-THIS IS SOME RANDOM TEXT ...
+CREATING A NEW BRANCH : git checkout -b "Name"
+SWITCHING TO A BRANCH CREATED : git checkout "Name"
+TO TAKE THE CHANGES OF THE MAIN BRANCH : git pull
+TO CLONE THE GIT HUB REPROSITORY : git clone url
+TO PUSH THE PREVIOUS FILE :
+STEP 1: git add .
+STEP 2: git commit -m "Message"
+STEP 3: git push (or) git push origin {brnach_name}
